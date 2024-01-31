@@ -1,0 +1,7 @@
+path: '/content/gdrive/MyDrive/computer_vision_eng/football_people_detection_YOLOV8/yolo_data'
+train: images/train
+val: images/train
+
+names:
+  0: player
+  1: football
